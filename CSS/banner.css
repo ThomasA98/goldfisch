@@ -1,0 +1,40 @@
+.banner {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.banner__img {
+    width: 100%;
+    box-sizing: border-box;
+    filter: blur(2px);
+}
+
+.greeter {
+    width: 100%;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    padding-top: var(--spacer-m);
+}
+
+.greeter__dialog {
+    position: relative;
+}
+
+.greeter__dialog-container {
+    display: flex;
+    flex-direction: column;
+    margin-top: .8rem;
+    margin-left: 2rem;
+}
+
+.greeter__dialog-img {
+    position: absolute;
+    width: 25rem;
+
+}
+
+.greeter__dialog-text {
+    font-family: var(--font-solway);
+    z-index: 1;
+}

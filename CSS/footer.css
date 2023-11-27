@@ -1,0 +1,18 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: var(--spacer-l);
+    gap: var(--spacer-m);
+    background-color: var(--primary-color);
+}
+
+.footer__span {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.footer__link {
+    display: flex;
+    gap: var(--spacer-m);
+}

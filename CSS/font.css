@@ -1,0 +1,24 @@
+@font-face {
+    font-family: Solway-Bold;
+    src: url(./Solway/Solway-Bold.ttf)
+}
+
+@font-face {
+    font-family: Solway-ExtraBold;
+    src: url(./Solway/Solway-ExtraBold.ttf)
+}
+
+@font-face {
+    font-family: Solway-Light;
+    src: url(./Solway/Solway-Light.ttf)
+}
+
+@font-face {
+    font-family: Solway-Medium;
+    src: url(./Solway/Solway-Medium.ttf)
+}
+
+@font-face {
+    font-family: Solway-Regular;
+    src: url(./Solway/Solway-Regular.ttf)
+}
